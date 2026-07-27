@@ -184,41 +184,63 @@ Integrated with Twilio using Netlify Serverless Functions to provide:
 
 ## Login
 
+Secure authentication with role-based access for Cashiers, Accountants, Mobile Scanners, and Administrators.
+
 ![Login](screenshots/login.png)
 
 ---
 
-## Cashier POS
+## Point of Sale
+
+The primary cashier interface for creating orders, selecting games, and processing customer purchases.
 
 ![POS](screenshots/pos.png)
 
 ---
 
-## Customer Search
+## Shopping Cart
 
-![Customer](screenshots/customer.png)
+Dynamic cart with automatic totals, quantity calculations, taxes, and package management.
+
+![Cart](screenshots/cart.png)
 
 ---
 
 ## Buy Package
 
+Create customer game packages with configurable pricing and balance tracking.
+
 ![Package](screenshots/package.png)
 
 ---
 
-## Payment
+## Payment Processing
+
+Supports multiple payment methods, split payments, and automatic receipt generation.
 
 ![Payment](screenshots/payment.png)
 
 ---
 
-## Mobile Redemption
+## Customer Search
 
-![Redeem](screenshots/mobile-redeem.png)
+Quickly locate existing customers, review packages, and manage account information.
+
+![Customer](screenshots/customer.png)
+
+---
+
+## QR & POS Redemption
+
+Flexible package redemption allowing staff to redeem customer games through QR code scanning on mobile devices or directly within the POS interface.
+
+![Redeem](screenshots/redeem.png)
 
 ---
 
 ## Accountant Dashboard
+
+Financial overview including revenue tracking, branch performance, and daily business metrics.
 
 ![Accountant](screenshots/accountant.png)
 
@@ -226,34 +248,73 @@ Integrated with Twilio using Netlify Serverless Functions to provide:
 
 ## Reports
 
+Generate business reports with date filtering, exports, and operational summaries.
+
 ![Reports](screenshots/reports.png)
-
----
-
-## Daily Settlement
-
-![Settlement](screenshots/settlement.png)
-
----
-
-## Admin Dashboard
-
-![Admin](screenshots/admin.png)
 
 ---
 
 ## Analytics
 
+Real-time dashboards providing insights into sales performance and operational statistics.
+
 ![Analytics](screenshots/analytics.png)
+
+---
+
+## API Integrations
+
+Administration interface for managing third-party service integrations including WhatsApp billing.
+
+![API Integrations](screenshots/api-integrations.png)
+
+---
+
+## Manual Game Injection
+
+Administrative tool for manually assigning games or packages to customer accounts when required.
+
+![Manual Game Injection](screenshots/manual-game-injection.png)
+
+---
+
+## Game Editor
+
+Manage available games, pricing, package configuration, and product information.
+
+![Game Editor](screenshots/game-editor.png)
+
+---
+
+## Settlement
+
+End-of-day cash drawer reconciliation with automated settlement calculations.
+
+![Settlement](screenshots/settlement.png)
+
+---
+
+## Backup & Restore
+
+Database backup and restoration tools for secure data management and disaster recovery.
+
+![Backup & Restore](screenshots/backup-restore.png)
+
+---
+
+## Raw Sessions Database
+
+Administrative interface for viewing and managing raw customer session records.
+
+![Raw Sessions Database](screenshots/raw-sessions-DB.png)
 
 ---
 
 ## Project Architecture
 
+Overview of the project's modular architecture and component organization.
+
 ![Architecture](screenshots/architecture.png)
-
----
-
 # 👨‍💻 My Contributions
 
 As the Full-Stack Frontend Developer, I was responsible for:
