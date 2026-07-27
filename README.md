@@ -286,14 +286,6 @@ Manage available games, pricing, package configuration, and product information.
 
 ---
 
-## Settlement
-
-End-of-day cash drawer reconciliation with automated settlement calculations.
-
-![Settlement](screenshots/settlement.png)
-
----
-
 ## Backup & Restore
 
 Database backup and restoration tools for secure data management and disaster recovery.
@@ -307,6 +299,22 @@ Database backup and restoration tools for secure data management and disaster re
 Administrative interface for viewing and managing raw customer session records.
 
 ![Raw Sessions Database](screenshots/raw-sessions-DB.png)
+
+---
+
+## Receipt Generation
+
+Automatically generates professional receipts after each transaction, including purchased games, payment details, taxes, and transaction summaries for customers.
+
+![Receipt](screenshots/receipt.png)
+
+---
+
+## Settlement
+
+End-of-day cash drawer reconciliation with automated settlement calculations.
+
+![Settlement](screenshots/settlement.png)
 
 ---
 
